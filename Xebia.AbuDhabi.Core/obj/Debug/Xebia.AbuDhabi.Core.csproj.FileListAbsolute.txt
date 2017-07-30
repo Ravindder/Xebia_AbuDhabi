@@ -1,0 +1,5 @@
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Core\bin\Debug\Xebia.AbuDhabi.Core.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Core\bin\Debug\Xebia.AbuDhabi.Core.pdb
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Core\obj\Debug\Xebia.AbuDhabi.Core.csprojResolveAssemblyReference.cache
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Core\obj\Debug\Xebia.AbuDhabi.Core.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Core\obj\Debug\Xebia.AbuDhabi.Core.pdb

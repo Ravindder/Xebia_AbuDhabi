@@ -1,0 +1,8 @@
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.ClientApp\bin\Debug\Xebia.AbuDhabi.ClientApp.exe.config
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.ClientApp\bin\Debug\Xebia.AbuDhabi.ClientApp.exe
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.ClientApp\bin\Debug\Xebia.AbuDhabi.ClientApp.pdb
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.ClientApp\bin\Debug\Xebia.AbuDhabi.Core.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.ClientApp\bin\Debug\Xebia.AbuDhabi.Core.pdb
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.ClientApp\obj\Debug\Xebia.AbuDhabi.ClientApp.csprojResolveAssemblyReference.cache
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.ClientApp\obj\Debug\Xebia.AbuDhabi.ClientApp.exe
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.ClientApp\obj\Debug\Xebia.AbuDhabi.ClientApp.pdb
