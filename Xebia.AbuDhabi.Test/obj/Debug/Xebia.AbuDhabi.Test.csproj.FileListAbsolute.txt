@@ -1,0 +1,14 @@
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Xebia.AbuDhabi.Test.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Xebia.AbuDhabi.Test.pdb
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Xebia.AbuDhabi.Core.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Xebia.AbuDhabi.Core.pdb
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\obj\Debug\Xebia.AbuDhabi.Test.csprojResolveAssemblyReference.cache
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\obj\Debug\Xebia.AbuDhabi.Test.dll
+E:\Projects\Xebia.AbuDhabi\Xebia.AbuDhabi.Test\obj\Debug\Xebia.AbuDhabi.Test.pdb
