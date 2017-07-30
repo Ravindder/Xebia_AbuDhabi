@@ -12,3 +12,5 @@ ConcreteDecorator : BillingService.
 
 UnitTests:
 I've used default Microsoft's TestFramework to design and run the tests.
+
+Thanks for the great assignment.
