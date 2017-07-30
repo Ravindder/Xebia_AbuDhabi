@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xebia.AbuDhabi.Core", "Xebi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xebia.AbuDhabi.ClientApp", "Xebia.AbuDhabi.ClientApp\Xebia.AbuDhabi.ClientApp.csproj", "{3680ACE8-BFC3-4D92-BBEE-554058B75BC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xebia.AbuDhabi.Test", "Xebia.AbuDhabi.Test\Xebia.AbuDhabi.Test.csproj", "{C48B725E-C5E8-4BA7-88F4-DB0DE52E3905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3680ACE8-BFC3-4D92-BBEE-554058B75BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3680ACE8-BFC3-4D92-BBEE-554058B75BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3680ACE8-BFC3-4D92-BBEE-554058B75BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48B725E-C5E8-4BA7-88F4-DB0DE52E3905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48B725E-C5E8-4BA7-88F4-DB0DE52E3905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48B725E-C5E8-4BA7-88F4-DB0DE52E3905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48B725E-C5E8-4BA7-88F4-DB0DE52E3905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
