@@ -16,5 +16,8 @@ ConcreteDecorator : BillingService and Bill
 
 UnitTests:
 I've used default Microsoft's TestFramework to design and run the tests.
+Please add the following packages from nuget to run the tests
+  1. MSTest.TestAdapter.1.1.11
+  2. MSTest.TestFramework.1.1.11
 
 Thanks for the great assignment.
