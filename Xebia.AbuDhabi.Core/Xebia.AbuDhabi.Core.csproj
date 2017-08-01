@@ -46,6 +46,7 @@
     <Compile Include="Employee.cs" />
     <Compile Include="GroceryItem.cs" />
     <Compile Include="IBillDiscount.cs" />
+    <Compile Include="IBillingService.cs" />
     <Compile Include="IDiscount.cs" />
     <Compile Include="IGroceryItem.cs" />
     <Compile Include="IPercentageDiscount.cs" />

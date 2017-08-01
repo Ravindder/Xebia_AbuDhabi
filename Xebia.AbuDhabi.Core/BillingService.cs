@@ -2,7 +2,7 @@
 
 namespace Xebia.AbuDhabi.Core
 {
-    public class BillingService
+    public class BillingService : IBillingService
     {
         Bill _bill;
         IBillDiscount _billDiscount;
@@ -18,12 +18,21 @@ namespace Xebia.AbuDhabi.Core
             _bill.Items.Add(item);
         }
 
-        public string PrintBill()
+        public Bill GetBillDetails()
         {
             _bill.CalculateTheBill();
             _bill.ApplyDiscount(_billDiscount);
 
-            return _bill.ToString();
+            return _bill;
+        }
+
+        public string PrintBill()
+        {
+            _bill.CalculateTheBill();
+            _bill.ApplyDiscount(_billDiscount);
+            var result = _bill.ToString();
+
+            return result;
         }
     }
 }
