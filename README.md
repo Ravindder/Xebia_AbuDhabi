@@ -10,9 +10,9 @@ Components: IDiscount,IPercentageDiscount
 
 ConcreteComponents : Affiliate,Employee and RegularCustomer
 
-Decorator : Bill
+Decorator : IBillingService
 
-ConcreteDecorator : BillingService.
+ConcreteDecorator : BillingService and Bill
 
 UnitTests:
 I've used default Microsoft's TestFramework to design and run the tests.
